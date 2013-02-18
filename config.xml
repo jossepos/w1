@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.werensite.app1"
+    version   = "1.0.0">
+
+<name>Luie hond app design</name>
+
+<description>
+A simple PhoneGap Build application.
+</description>
+
+<author href="https://werensite.nl" email="you@example.com">j.wiebring
+</author>
+<icon src="icon.png" />
+
+
+
+
+
+
+
+
+
+</widget>
